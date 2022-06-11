@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data analysis Project**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently enhancing my  ** SQl & Python Skills**
 
 - 👯 I’m looking to collaborate on **any data analytics projects**
 
