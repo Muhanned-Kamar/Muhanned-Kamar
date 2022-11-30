@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhanned</h1>
-<h3 align="center">A passionate data analyst from Egypt</h3>
+<h3 align="center">Creative-minded and detail-oriented individual who believes that if each day counts as growing by 1% then it a 365% growth a year.</h3>
 
-- 🔭 I’m currently working on **Data analysis Project**
+- 🔭 I’m currently working on **Backend Development Projects**
 
-- 🌱 I’m currently enhancing my  ** SQl & Python Skills**
+- 🌱 I’m currently enhancing my  ** Ruby on Rails & Python  Skills**
 
 - 👯 I’m looking to collaborate on **any data analytics projects**
 
-- 👨‍💻 All of my projects are available at [https://muhanned-kamar.github.io/MK-Portfolio/](https://muhanned-kamar.github.io/MK-Portfolio/)
+- 👨‍💻 All of my projects are available at [this link](https://www.muhanned-kamar.com/)
 
 - 📫 How to reach me **muhanned_97@hotmail.com**
 
