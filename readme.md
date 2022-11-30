@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently enhancing my  ** Ruby on Rails & Python  Skills**
 
-- 👯 I’m looking to collaborate on **any data analytics projects**
+- 👯 I’m looking to collaborate on **Ruby on Rails or Python projects**
 
 - 👨‍💻 All of my projects are available at [this link](https://www.muhanned-kamar.com/)
 
